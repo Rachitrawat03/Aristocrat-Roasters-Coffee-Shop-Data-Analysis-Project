@@ -29,6 +29,8 @@ This project involves the analysis of transactional data collected from Jan-Jun 
 - Added a slicer for store location and connected it to all PivotTables for interactive filtering.
 - Adjusted formatting, alignment, and polish to finalize the dashboard.
 
+![Final Dashboard](https://github.com/Rachitrawat03/Aristocrat-Roasters-Coffee-Shop-Data-Analysis-Project/assets/123554497/380208fb-54f5-413e-a530-089e7918b272)
+
 ## Conclusion
 
 By completing this project, valuable insights were gained into Aristocrat Roasters' purchase behavior, helping to identify patterns and trends and offer recommendations to improve operations and maximize business opportunities.
